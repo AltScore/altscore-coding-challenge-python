@@ -1,0 +1,4 @@
+personId,email,countryCode,location.lat,location.lng
+1734556494,yo1@email.com,ec,1,2
+1734556495,,ec,3,4
+1734556497,yo3@email.com,ec,,
