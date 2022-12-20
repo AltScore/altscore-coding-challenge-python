@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from server.models.process_csv import process_batch_from_csv
+from server.usecase.process_csv import process_batch_from_csv
 from server.schemas.input import BatchInputSchema, BatchOutputSchema
 
 challenge_router = APIRouter()
